@@ -5,3 +5,4 @@ The purpose of this analysis project was to examine Amazon's paid Vine program. 
 
 ## Results
 
+![AmazonVineStats](/images/AmazonVineStats.png "AmazonVineStats")
